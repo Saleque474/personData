@@ -1,0 +1,11 @@
+{
+"name":"Mohammad Abdullah",
+  "age":23,
+  "hobbies":["Quran Recite","Walking","Programming"],
+  "skills":{
+  "python":7,
+    "dart":9,
+    "javascript":6
+  }
+
+}
